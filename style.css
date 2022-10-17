@@ -2,11 +2,13 @@ body {
     max-width: 1200px;
     margin: 5rem 20rem;
     font-family: 'Lato', sans-serif;
+
+
 }
 
 .product-main {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     gap: 2rem;
 }
 
@@ -175,4 +177,3 @@ h2 {
 #Description p {
     line-height: 1.3;
 }
-
